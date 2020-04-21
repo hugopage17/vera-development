@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/vera-development/static/css/main.1ed4616f.chunk.css",
-    "main.js": "/vera-development/static/js/main.e2b4ab5b.chunk.js",
-    "main.js.map": "/vera-development/static/js/main.e2b4ab5b.chunk.js.map",
+    "main.js": "/vera-development/static/js/main.5ebbd1c6.chunk.js",
+    "main.js.map": "/vera-development/static/js/main.5ebbd1c6.chunk.js.map",
     "runtime-main.js": "/vera-development/static/js/runtime-main.1e95bd25.js",
     "runtime-main.js.map": "/vera-development/static/js/runtime-main.1e95bd25.js.map",
-    "static/js/2.cd8cd1de.chunk.js": "/vera-development/static/js/2.cd8cd1de.chunk.js",
-    "static/js/2.cd8cd1de.chunk.js.map": "/vera-development/static/js/2.cd8cd1de.chunk.js.map",
+    "static/js/2.85ecc35d.chunk.js": "/vera-development/static/js/2.85ecc35d.chunk.js",
+    "static/js/2.85ecc35d.chunk.js.map": "/vera-development/static/js/2.85ecc35d.chunk.js.map",
     "index.html": "/vera-development/index.html",
-    "precache-manifest.80e95667c6821c8e113d38c704f11bb8.js": "/vera-development/precache-manifest.80e95667c6821c8e113d38c704f11bb8.js",
+    "precache-manifest.e2096c90c56cb6d80df1481c6d2295a8.js": "/vera-development/precache-manifest.e2096c90c56cb6d80df1481c6d2295a8.js",
     "service-worker.js": "/vera-development/service-worker.js",
     "static/css/main.1ed4616f.chunk.css.map": "/vera-development/static/css/main.1ed4616f.chunk.css.map",
-    "static/js/2.cd8cd1de.chunk.js.LICENSE.txt": "/vera-development/static/js/2.cd8cd1de.chunk.js.LICENSE.txt"
+    "static/js/2.85ecc35d.chunk.js.LICENSE.txt": "/vera-development/static/js/2.85ecc35d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1e95bd25.js",
-    "static/js/2.cd8cd1de.chunk.js",
+    "static/js/2.85ecc35d.chunk.js",
     "static/css/main.1ed4616f.chunk.css",
-    "static/js/main.e2b4ab5b.chunk.js"
+    "static/js/main.5ebbd1c6.chunk.js"
   ]
 }
