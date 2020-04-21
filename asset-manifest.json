@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/vera-development/static/css/main.1ed4616f.chunk.css",
+    "main.js": "/vera-development/static/js/main.1a4fee8f.chunk.js",
+    "main.js.map": "/vera-development/static/js/main.1a4fee8f.chunk.js.map",
+    "runtime-main.js": "/vera-development/static/js/runtime-main.1e95bd25.js",
+    "runtime-main.js.map": "/vera-development/static/js/runtime-main.1e95bd25.js.map",
+    "static/js/2.dec48cb1.chunk.js": "/vera-development/static/js/2.dec48cb1.chunk.js",
+    "static/js/2.dec48cb1.chunk.js.map": "/vera-development/static/js/2.dec48cb1.chunk.js.map",
+    "index.html": "/vera-development/index.html",
+    "precache-manifest.40eaf1e5d1224513143f0c2cd77d14be.js": "/vera-development/precache-manifest.40eaf1e5d1224513143f0c2cd77d14be.js",
+    "service-worker.js": "/vera-development/service-worker.js",
+    "static/css/main.1ed4616f.chunk.css.map": "/vera-development/static/css/main.1ed4616f.chunk.css.map",
+    "static/js/2.dec48cb1.chunk.js.LICENSE.txt": "/vera-development/static/js/2.dec48cb1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e95bd25.js",
+    "static/js/2.dec48cb1.chunk.js",
+    "static/css/main.1ed4616f.chunk.css",
+    "static/js/main.1a4fee8f.chunk.js"
+  ]
+}
